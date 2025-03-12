@@ -76,9 +76,6 @@ Contributions are welcome! To contribute:
    ```
 5. Open a Pull Request.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any questions or suggestions, reach out at (ojhavipul0204@gmail.com).
 
