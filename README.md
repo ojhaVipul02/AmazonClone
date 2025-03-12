@@ -1,4 +1,4 @@
-# AmazonClone
+# AmazonReplics
 A repo implemented while learning reactJs
 # Amazon Clone App
 
