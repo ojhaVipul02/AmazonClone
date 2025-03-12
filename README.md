@@ -1,6 +1,6 @@
 # AmazonReplics
 A repo implemented while learning reactJs
-# Amazon Clone App
+# Amazon Replica App
 
 ## Overview
 The **Amazon Clone App** is a fully functional e-commerce web application built using **React.js**. It replicates core features of Amazon, including product browsing, user authentication, shopping cart functionality, and checkout.
